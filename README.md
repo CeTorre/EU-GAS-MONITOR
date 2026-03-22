@@ -2,7 +2,7 @@
 
 An interactive, single-file web dashboard for monitoring European natural gas storage, LNG terminal inventory, and spot prices across key markets. Built as part of a Master's Thesis research project.
 
-**→ [View live dashboard](https://cetorre.github.io/eu-gas-monitor/)** 
+**→ [View live dashboard](https://cetorre.github.io/EU-GAS-MONITOR/)** 
 
 ---
 
